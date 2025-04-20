@@ -59,9 +59,7 @@ This dataset is from the [Kaggle Titanic Challenge](https://www.kaggle.com/compe
 
 ---
 
-## 🚀 Getting Started
 
-Clone the repository and install the dependencies:
 
 
 Requirements
